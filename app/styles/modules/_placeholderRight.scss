@@ -1,0 +1,26 @@
+#placeholderRight {
+ width: 70%;
+ display: inline-block;
+ float: left;
+
+ .itemContainer {
+   display: inline-block;
+   width: 20%;
+   margin: 0 20px 10px 0;
+   text-align: center;
+   text-decoration: none;
+   color: black;
+
+   img{
+     width: 100%;
+     border: 2px solid gray;
+     border-radius: 5px;
+   }
+   .itemTitle{
+     width: 100%;
+     font-size: .9rem;
+     margin-top: 5px;
+   }
+
+ }
+}
